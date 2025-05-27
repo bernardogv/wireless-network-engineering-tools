@@ -1,0 +1,10 @@
+# Core Python libraries used in the projects
+# Most are built-in, but listing for clarity
+
+# No external dependencies required!
+# All projects use Python standard library only
+
+# Optional for future enhancements:
+# numpy>=1.19.0  # For advanced calculations
+# matplotlib>=3.3.0  # For visualization
+# pandas>=1.2.0  # For data analysis

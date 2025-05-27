@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.log
+*.csv
+*.json
+!*example*.json
+
+# Reports (keep examples only)
+wifi_signal_log.csv
+channel_optimization_report.json
+troubleshooting_report.json
+performance_runbook.json
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS
+Thumbs.db
